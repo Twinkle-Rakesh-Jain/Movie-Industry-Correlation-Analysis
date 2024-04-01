@@ -3,8 +3,6 @@
 ## Description:
 The Movie Industry Correlation Analysis project aims to explore and analyze a dataset containing information about 6,820 movies spanning from 1986 to 2016. Each movie in the dataset is described by various attributes including budget, production company, country of origin, director, genre, revenue, rating, release date, duration, user rating, number of user votes, main actor/actress, writer, and year of release.
 
-![Uploading image.png…]()
-
 
 ## Project Overview:
 
